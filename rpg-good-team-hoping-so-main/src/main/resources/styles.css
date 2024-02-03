@@ -1,0 +1,70 @@
+/* styles.css */
+/* MenuView
+Menu Layout */
+.menu-layout {
+  -fx-alignment: center;
+}
+
+/* Outcome Label */
+.outcome-label {
+  -fx-font-size: 30px;
+  -fx-font-weight: bold;
+}
+
+/* Start Button */
+.start-button {
+  -fx-font-size: 18px;
+  -fx-background-color: #337ab7;
+  -fx-text-fill: #ffffff;
+}
+
+.start-button.game-played {
+  -fx-background-color: #00FF00;
+}
+
+.start-button.game-lost {
+  -fx-background-color: #FF0000;
+}
+
+/* Exit Button */
+.exit-button {
+  -fx-font-size: 18px;
+  -fx-background-color: #337ab7;
+  -fx-text-fill: #ffffff;
+}
+
+.exit-button.game-played {
+  -fx-background-color: #00FF00;
+}
+
+.exit-button.game-lost {
+  -fx-background-color: #FF0000;
+}
+
+
+/* RPGView */
+/* Style for the COOLDOWN BAR */
+.cooldown-bar .bar {
+    -fx-background-color: #7b5c00; /* Change the color to your desired value */
+}
+
+
+/* Style for the "Back to Menu" button */
+.button-backtomenu {
+  -fx-background-color: #337ab7;
+  -fx-text-fill: #ffffff;
+  -fx-font-size: 16px;
+  -fx-pref-width: 140px;
+  -fx-pref-height: 40px;
+}
+
+/* CSS for the Timer Text */
+.timer-text {
+    -fx-font-size: 20px;
+}
+
+.panic-mode {
+    -fx-text-fill: red;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
