@@ -98,7 +98,7 @@ The "ui" package was separated from the main "rpg" package to maintain a clear s
   5. Set the scene on the stage and show the menu window.
 
 # Contributions
-STEINBACH Matteo:
+S M:
 - MVC
 - Packages
 - Simple game Menu
@@ -114,7 +114,7 @@ STEINBACH Matteo:
 - Documentation and Readme.md
 - Presentation everything
 
-LE DREZEN Aymeric:
+L D A:
 - Image resources
 - Poopy (main charachter)
 - Changes overtime
@@ -124,6 +124,6 @@ LE DREZEN Aymeric:
 - Changing Menu on win conditions win or lose
 - Bug fixing
 
-JACK Oliver:
+J O:
 - Menu looks
 - UI updates
